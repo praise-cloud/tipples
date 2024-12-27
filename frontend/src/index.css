@@ -6,6 +6,16 @@ a.active hr{
   display: block;
 }
 
+*{
+  font-family: Outfit;
+}
+
+.prata-regular {
+  font-family: "Prata", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 
   /*This is to hide the scroll alls in the website  */
   ::-webkit-scrollbar {
