@@ -1,4 +1,5 @@
 // import React from 'react'
+import BestSeller from '../components/BestSeller'
 import Hero from '../components/Hero'
 import LatestDrinks from '../components/LatestDrinks'
 
@@ -7,6 +8,7 @@ const Home = () => {
     <div>
       <Hero/>
       <LatestDrinks/>
+      <BestSeller/>
     </div>
   )
 }
