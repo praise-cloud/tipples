@@ -34,7 +34,7 @@ Follow these steps to set up the project locally:
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tipples-booze-and-bar.git
+   git clone https://github.com/praise-cloud/tipples-booze-and-bar.git
    ```
 
 2. Navigate to the project directory:
@@ -50,15 +50,7 @@ Follow these steps to set up the project locally:
    npm install
    ```
 
-4. Create a `.env` file in the `backend` directory and add the following environment variables:
-   ```env
-   PORT=5000
-   MONGO_URI=your_mongo_connection_string
-   JWT_SECRET=your_secret_key
-   STRIPE_SECRET_KEY=your_stripe_key
-   ```
-
-5. Start the development servers:
+4. Start the development servers:
    ```bash
    # Start backend server
    cd backend
@@ -69,7 +61,7 @@ Follow these steps to set up the project locally:
    npm start
    ```
 
-6. Access the application in your browser at `http://localhost:3000`.
+5. Access the application in your browser at `http://localhost:3000`.
 
 ## Contributing
 Contributions are welcome! Please follow these steps to contribute:
